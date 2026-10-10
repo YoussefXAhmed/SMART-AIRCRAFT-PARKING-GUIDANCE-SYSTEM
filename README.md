@@ -64,6 +64,16 @@ When pressed:
 - Push button triggers emergency stop
 
 ---
+## Project Demonstration
+
+### Hardware Prototype
+
+![Smart Aircraft Parking Guidance System](assets/aircraft-parking-system.jpg)
+
+### Demo Video
+
+[Watch the project demonstration](assets/aircraft-parking-demo.mp4)
+---
 
 👨‍💻 Team Members
 - Youssef Ahmed  
