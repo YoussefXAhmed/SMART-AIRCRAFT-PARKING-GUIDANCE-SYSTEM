@@ -87,4 +87,4 @@ When pressed:
 🎓 Academic Information
 - Course: Embedded Systems  
 - Institution: Arab Academy for Science, Technology & Maritime Transport  
-- Academic Year: 2024 / 2025
+- Academic Year: 2025 / 2026
