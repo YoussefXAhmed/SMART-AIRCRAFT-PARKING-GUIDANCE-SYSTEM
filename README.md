@@ -68,7 +68,9 @@ When pressed:
 
 ### Hardware Prototype
 
-![Smart Aircraft Parking Guidance System](assets/aircraft-parking-system.jpg)
+<img src="assets/aircraft-parking-system.jpg"
+     alt="Smart Aircraft Parking Guidance System"
+     width="350">
 
 ### Demo Video
 
